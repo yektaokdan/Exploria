@@ -12,9 +12,10 @@ This application allows users to pinpoint locations on a map, add names and desc
 - 
 ## Technologies Used
 
-- CoreData: For local data storage, allowing the app to save and retrieve user data efficiently.
-- CoreLocation: To manage location data, enabling accurate pinpointing and navigation functionalities.
-- MapKit: For integrating and manipulating map views, enhancing the geographical elements of the app.
-- Gesture Recognizer: To interpret user gestures, making the app interactive and easy to use.
-- Segue: Utilized for transitioning between views within the app, ensuring a fluid user experience.
+- **CoreData:** For local data storage, allowing the app to save and retrieve user data efficiently.
+- **CoreLocation:** To manage location data, enabling accurate pinpointing and navigation functionalities.
+- **MapKit:** For integrating and manipulating map views, enhancing the geographical elements of the app.
+- **Gesture Recognizer:** To interpret user gestures, making the app interactive and easy to use.
+- **Segue:** Utilized for transitioning between views within the app, ensuring a fluid user experience.
+- 
 - Botanica transforms outdoor adventures into a shared journey of discovery, making it the perfect companion for anyone passionate about the natural world.
