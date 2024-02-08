@@ -27,7 +27,7 @@ Exploria allows users to enrich their outdoor adventures with the ability to sav
 1. **Clone the Repository**: First, clone the repo to your local machine using Git:
 
     ```bash
-    git clone https://github.com/yourusername/Exploria.git
+    git clone https://github.com/yektaokdan/Exploria.git
     ```
 
 2. **Open the Project in Xcode**: Navigate to the cloned directory and open the `Exploria.xcodeproj` file in Xcode.
