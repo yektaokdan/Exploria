@@ -1,10 +1,10 @@
-# Botanica
+# Exploria
 
-Botanica transforms outdoor adventures into a shared journey of discovery, enabling users to pinpoint locations on a map, photograph plants, waterfalls, and other elements of nature, and save these discoveries with detailed annotations. It is the perfect companion for anyone passionate about exploring and documenting the natural world.
+Exploria transforms outdoor adventures into a shared journey of discovery, enabling users to pinpoint locations on a map, photograph plants, waterfalls, and other elements of nature, and save these discoveries with detailed annotations. It is the perfect companion for anyone passionate about exploring and documenting the natural world.
 
 ## Overview
 
-Botanica allows users to enrich their outdoor adventures with the ability to save the geographical location, photos, names, descriptions, and dates of their natural discoveries. This application makes every journey into the wild a part of a personalized digital journal, ready to be revisited and shared at any moment.
+Exploria allows users to enrich their outdoor adventures with the ability to save the geographical location, photos, names, descriptions, and dates of their natural discoveries. This application makes every journey into the wild a part of a personalized digital journal, ready to be revisited and shared at any moment.
 
 ## Features
 
@@ -27,14 +27,14 @@ Botanica allows users to enrich their outdoor adventures with the ability to sav
 1. **Clone the Repository**: First, clone the repo to your local machine using Git:
 
     ```bash
-    git clone https://github.com/yourusername/Botanica.git
+    git clone https://github.com/yourusername/Exploria.git
     ```
 
-2. **Open the Project in Xcode**: Navigate to the cloned directory and open the `Botanica.xcodeproj` file in Xcode.
+2. **Open the Project in Xcode**: Navigate to the cloned directory and open the `Exploria.xcodeproj` file in Xcode.
 
     ```bash
-    cd Botanica
-    open Botanica.xcodeproj
+    cd Exploria
+    open Exploria.xcodeproj
     ```
 
 3. **Install Dependencies**: If the project uses external libraries, install them by running the following command in the Terminal (if using CocoaPods):
@@ -56,5 +56,5 @@ Botanica allows users to enrich their outdoor adventures with the ability to sav
 - **Gesture Recognizer** for interactive user experience.
 - **Segue** for fluid navigation between app views.
 
-Explore, capture, and reminisce about your natural discoveries with Botanica, making every outdoor adventure a memorable journey.
+Explore, capture, and reminisce about your natural discoveries with Exploria, making every outdoor adventure a memorable journey.
 
